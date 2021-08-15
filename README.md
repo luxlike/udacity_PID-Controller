@@ -6,8 +6,8 @@ Self-Driving Car Engineer Nanodegree Program
 
 [//]: # "Image References"
 
-[movie1]: ./resources/pid_driving.mp4 "PID Driving"
-[image1]: ./resources/best_driving.png "Best Driving"
+[movie1]: ./pid_driving.mp4 "PID Driving"
+[image1]: ./best_driving.png "Best Driving"
 
 
 ## Dependencies
